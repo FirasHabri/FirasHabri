@@ -17,7 +17,6 @@
 😄 Find me on <a href="https://www.linkedin.com/in/mhd-feras-al-hebri-ba031b159/">Linkedin</a><br><br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FirasHabri&show_icons=true&count_private=true&include_all_commits=true)<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FirasHabri&show_icons=true&count_private=true&include_all_commits=true"/><br><br>
 
 <strong>💡 My Current Stack :</strong><br><br>
